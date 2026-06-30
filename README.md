@@ -1,5 +1,3 @@
-Aqui está um modelo de README.md profissional, estruturado e de alta densidade para o repositório ou documentação do treinamento. Ele foi desenhado seguindo as melhores práticas de documentação técnica, destacando o rigor do conteúdo, a parceria institucional e a ementa reformulada com os feedbacks de sala de aula.
-
 # Product Thinking Discovery: Da Visão ao Outcome
 Este repositório contém o material de apoio, a estrutura metodológica e os guias analíticos do treinamento corporativo exclusivo desenvolvido para a Fundação Faculdade de Medicina, promovido e certificado pela Impacta Tecnologia.
 

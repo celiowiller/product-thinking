@@ -10,7 +10,7 @@ Este treinamento de 16 horas adota a abordagem Learning by Doing (Aprender Fazen
 
 # Promotor: Impacta Tecnologia
 
-# Cliente Institucional: Fundação Medicina USP
+# Cliente Institucional: Fundação Faculdade de Medicina
 
 Carga Horária: 16 Horas
 
